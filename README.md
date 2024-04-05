@@ -1,4 +1,4 @@
-# Applied-statistics
+# Applied_statistics
 Базовый АнДан для людей, работающих с данными.
 
 # Themes
